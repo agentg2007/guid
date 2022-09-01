@@ -1,0 +1,26 @@
+{
+	"name": "@nthity/guid",
+	"version": "0.1.0",
+	"description": "Guid generator.",
+	"main": "index.js",
+	"devDependencies": {
+		"typescript": "^4.8.2"
+	},
+	"scripts": {
+		"prepublish": "npx tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/agentg2007/guid.git"
+	},
+	"keywords": [
+		"guid",
+		"generator"
+	],
+	"author": "agentg2007",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/agentg2007/guid/issues"
+	},
+	"homepage": "https://github.com/agentg2007/guid#readme"
+}
