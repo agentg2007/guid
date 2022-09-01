@@ -1,6 +1,6 @@
 {
 	"name": "@nthity/guid",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Guid generator.",
 	"publishConfig": {
 		"access": "public"
@@ -24,5 +24,12 @@
 	"bugs": {
 		"url": "https://github.com/agentg2007/guid/issues"
 	},
-	"homepage": "https://github.com/agentg2007/guid#readme"
+	"homepage": "https://github.com/agentg2007/guid#readme",
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"index.d.ts.map",
+		"LICENSE",
+		"README.md"
+	]
 }
